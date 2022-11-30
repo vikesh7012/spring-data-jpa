@@ -1,0 +1,4 @@
+D:\udemy\Spring\spring-boot-jpa-postgresql-master\spring-boot-jpa\src\main\java\com\bezkoder\spring\jpa\postgresql\SpringBootJpaPostgresqlApplication.java
+D:\udemy\Spring\spring-boot-jpa-postgresql-master\spring-boot-jpa\src\main\java\com\bezkoder\spring\jpa\postgresql\model\Tutorial.java
+D:\udemy\Spring\spring-boot-jpa-postgresql-master\spring-boot-jpa\src\main\java\com\bezkoder\spring\jpa\postgresql\repository\TutorialRepository.java
+D:\udemy\Spring\spring-boot-jpa-postgresql-master\spring-boot-jpa\src\main\java\com\bezkoder\spring\jpa\postgresql\controller\TutorialController.java
